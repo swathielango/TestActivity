@@ -2,7 +2,7 @@ package com.scuba.programs;
 
 public class ConstructorCar 
 {
-	static String Company = "TATA";
+	static String Company = "Benz";
 	String Colour;
 	double price;
 	int modelno;
